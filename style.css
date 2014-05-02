@@ -1,0 +1,137 @@
+body {
+	background-color: whitesmoke;
+}
+
+
+nav {
+	background-color: black;
+	height: 40px;
+	width: 1000px;
+	margin: 0;
+
+	}
+
+.container {
+	height: 180%;
+	width: 1000px;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+.nav {
+	font-size: 20px;
+	font-family: Verdana;
+	color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+
+
+}
+
+.logo {
+	height: 100px;
+	width: 1000px;
+	background-color: white;
+	margin: 0;
+
+}
+
+ul {
+	list-style-type: none;
+}
+li {
+		display: inline;
+		float: left;
+		margin-left: 5%;
+		margin-right: 9%;
+		padding-top: 7px;
+
+}
+
+.flashTitle{
+	height: 15%;
+	width: 1000px;
+}
+
+.value {
+		border: 2px solid grey;
+
+}
+
+#title  {
+	height: 40px;
+	width: 300px;
+	font-size: 20px;
+	margin-left:15px;
+	margin-right: auto;
+
+}
+
+#description {
+	height: 100px;
+	width: 300px;
+	margin-left:15px;
+	margin-right: auto;
+	font-size: 15px;
+	line-height: 1.4;
+	text-align: start;
+
+}
+
+.typeCard {
+	width: 1000px;
+	display: block;
+	text-align: center;
+	margin-bottom: 50px;
+
+
+}
+
+.content {
+	height: 100px;
+	width: 49%;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.front {
+	height: 30px;
+	width: 90%;
+	margin-top: 7px;
+	background: transparent;
+	margin-left: 15px;
+	resize:none;
+	font-size: 17px;
+	font-family: verdana;
+
+}
+
+.back {
+	margin-top: 7px;
+	width: 90%;
+	height:60px;
+	margin-left: 10px;
+	background: transparent;
+	resize:none;
+}
+
+#addMoreColumns {
+
+	width: 1000px;
+	text-align: left;
+	padding-left: 60px;
+	font-family: Verdana;
+
+}
+
+#create {
+	margin-top: 15px;
+	float: right;
+	height: 50px;
+	width:150px;
+	font-size: 20px;
+	font-family: Verdana;
+
+
+}
